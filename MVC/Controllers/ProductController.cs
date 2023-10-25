@@ -83,7 +83,7 @@ namespace MVC.Controllers
             }
         }
 
-        // GET: ProductController/Delete/5
+        // GET: ProductController/Delete/5  huh
         public ActionResult Delete(int id)
         {
             return View();
